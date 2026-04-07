@@ -1,7 +1,0 @@
-numpy
-scipy
-soundfile
-yt-dlp
-matplotlib
-pillow
-certifi
